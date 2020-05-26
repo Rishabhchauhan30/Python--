@@ -1,0 +1,17 @@
+'''import datetime
+
+dt = datetime.datetime.today()
+
+print('Current date: {}/{}/{}'.format(dt.day,dt.month,dt.year))
+print('Current time: {}:{}:{}'.format(dt.hour,dt.minute,dt.second))'''
+
+'''r = float(input('enter the radius of circle: '))
+
+pi = 22/7
+area = pi*r**2
+print(area) '''
+
+x = (input('Enter your first name: '))
+y = (input('Enter your second name: '))
+
+print(x[::-1] +" " y[::-1]) 

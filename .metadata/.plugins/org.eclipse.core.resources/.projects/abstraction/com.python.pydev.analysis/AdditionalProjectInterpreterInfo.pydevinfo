@@ -1,0 +1,48 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\abstraction\com.python.pydev.analysis\v2_indexcache
+abstractclass|1589678844580302000|C:\Users\011tx\eclipse-workspace\abstraction\abstractclass.py
+assignment|1589679739604031000|C:\Users\011tx\eclipse-workspace\abstraction\assignment.py
+-- END DISKCACHE
+-- START DICTIONARY
+13
+4=abstractclass
+10=Five_series.__init__
+2=assignment
+12=HP
+5=BMW
+9=BMW.__init__
+1=C:\Users\011tx\eclipse-workspace\abstraction\assignment.py
+6=Three_series
+7=Five_series
+3=C:\Users\011tx\eclipse-workspace\abstraction\abstractclass.py
+8=Three_series.__init__
+11=Touch_Screen_Laptop
+13=DELL
+-- END DICTIONARY
+-- START TREE 1
+9
+HP|1|HP!1^14#7*17@
+bmw|1|BMW!3^2#7*33@
+del|2|dell!1^32#1*19@DELL!1^22#7*17@
+fiv|1|Five_series!3^46#7*33@
+fs|1|fs!3^75#1*35@
+hp|1|hp!1^29#1*19@
+thr|1|Three_series!3^24#7*33@
+tou|1|Touch_Screen_Laptop!1^3#7*17@
+ts|1|ts!3^67#1*35@
+-- END TREE
+-- START TREE 2
+11
+__i|3|__init__!5&3^4#9*34@__init__!6&3^25#9*34@__init__!7&3^47#9*34@
+cru|1|cruisecontrol!8&3^27#9*35@
+dri|3|drive!5&3^11#9*34@drive!6&3^38#9*34@drive!7&3^63#9*34@
+mak|1|make!9&3^5#9*35@
+mod|1|model!9&3^6#9*35@
+par|1|parkingassist!10&3^49#9*35@
+scr|3|scroll!11&1^6#9*18@scroll!12&1^16#9*18@scroll!13&1^25#9*18@
+sta|3|start!5&3^15#9*34@start!6&3^29#9*34@start!7&3^53#9*34@
+sto|3|stop!5&3^19#9*34@stop!6&3^33#9*34@stop!7&3^57#9*34@
+tou|1|touch!11&1^10#9*18@
+yea|1|year!9&3^7#9*35@
+-- END TREE

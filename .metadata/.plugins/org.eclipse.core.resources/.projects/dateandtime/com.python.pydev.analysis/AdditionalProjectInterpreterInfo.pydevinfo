@@ -1,0 +1,41 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\dateandtime\com.python.pydev.analysis\v2_indexcache
+sleep|1589828418747413000|C:\Users\011tx\eclipse-workspace\dateandtime\sleep.py
+executiontime|1589828444670579000|C:\Users\011tx\eclipse-workspace\dateandtime\executiontime.py
+combined&t|1589826925484135000|C:\Users\011tx\eclipse-workspace\dateandtime\combined&t.py
+dtdemo|1589819153486685000|C:\Users\011tx\eclipse-workspace\dateandtime\dtdemo.py
+sortingdates|1589827682635768000|C:\Users\011tx\eclipse-workspace\dateandtime\sortingdates.py
+currentdt|1589820247259865000|C:\Users\011tx\eclipse-workspace\dateandtime\currentdt.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+4=sleep
+5=C:\Users\011tx\eclipse-workspace\dateandtime\executiontime.py
+6=executiontime
+7=C:\Users\011tx\eclipse-workspace\dateandtime\sortingdates.py
+2=combined&t
+9=C:\Users\011tx\eclipse-workspace\dateandtime\currentdt.py
+12=dtdemo
+11=C:\Users\011tx\eclipse-workspace\dateandtime\dtdemo.py
+1=C:\Users\011tx\eclipse-workspace\dateandtime\combined&t.py
+8=sortingdates
+3=C:\Users\011tx\eclipse-workspace\dateandtime\sleep.py
+10=currentdt
+-- END DICTIONARY
+-- START TREE 1
+10
+d|1|d!1^3#1*19@
+d1|3|d1!3^5#1*35@d1!5^8#1*51@d1!7^4#1*67@
+d2|3|d2!3^6#1*35@d2!7^5#1*67@d2!5^9#1*51@
+d3|3|d3!5^10#1*51@d3!7^6#1*67@d3!3^7#1*35@
+dt|2|dt!1^5#1*19@dt!9^9#1*83@
+end|1|endTime!5^23#1*51@
+epo|2|epochseconds!9^3#1*83@epochseconds!11^2#1*99@
+lda|3|ldates!7^2#1*67@ldates!3^3#1*35@ldates!5^6#1*51@
+sta|1|startTime!5^4#1*51@
+t|3|t!9^6#1*83@t!1^4#1*19@t!11^7#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

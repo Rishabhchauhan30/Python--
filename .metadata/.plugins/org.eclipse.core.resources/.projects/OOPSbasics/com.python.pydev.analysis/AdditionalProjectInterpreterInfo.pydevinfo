@@ -1,0 +1,76 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\OOPSbasics\com.python.pydev.analysis\v2_indexcache
+product|1589520784143451000|C:\Users\011tx\eclipse-workspace\OOPSbasics\product.py
+student|1589526201981244000|C:\Users\011tx\eclipse-workspace\OOPSbasics\student.py
+product2|1589524954410529000|C:\Users\011tx\eclipse-workspace\OOPSbasics\product2.py
+course|1589522188256581000|C:\Users\011tx\eclipse-workspace\OOPSbasics\course.py
+innerclass|1589527967291111000|C:\Users\011tx\eclipse-workspace\OOPSbasics\innerclass.py
+getterandsetter|1589523855140724000|C:\Users\011tx\eclipse-workspace\OOPSbasics\getterandsetter.py
+objectcounter|1589526953492782000|C:\Users\011tx\eclipse-workspace\OOPSbasics\objectcounter.py
+-- END DISKCACHE
+-- START DICTIONARY
+25
+7=C:\Users\011tx\eclipse-workspace\OOPSbasics\getterandsetter.py
+14=student
+6=product2
+10=objectcounter
+5=C:\Users\011tx\eclipse-workspace\OOPSbasics\product2.py
+3=C:\Users\011tx\eclipse-workspace\OOPSbasics\course.py
+16=Car.Engine
+25=Car.Engine.__init__
+19=programmer.setName
+1=C:\Users\011tx\eclipse-workspace\OOPSbasics\innerclass.py
+9=C:\Users\011tx\eclipse-workspace\OOPSbasics\objectcounter.py
+20=Car.__init__
+4=course
+8=getterandsetter
+11=C:\Users\011tx\eclipse-workspace\OOPSbasics\product.py
+12=product
+13=C:\Users\011tx\eclipse-workspace\OOPSbasics\student.py
+18=programmer
+2=innerclass
+17=product.__init__
+22=course.__init__
+15=Car
+24=programmer.setTechnologies
+21=student.__init__
+23=programmer.setSalary
+-- END DICTIONARY
+-- START TREE 1
+13
+car|1|Car!1^1#7*17@
+cou|1|course!3^1#7*33@
+o|1|o!1^14#1*19@
+o1|5|o1!1^15#1*19@o1!5^14#1*51@o1!3^12#1*35@o1!7^21#1*67@o1!9^12#1*83@
+o2|3|o2!9^13#1*83@o2!5^17#1*51@o2!3^18#1*35@
+o3|1|o3!9^14#1*83@
+obj|1|objectcounter!9^1#7*81@
+p1|1|p1!11^8#1*99@
+p2|1|p2!11^15#1*99@
+pro|3|product!5^1#7*49@programmer!7^1#7*65@product!11^1#7*97@
+s1|1|s1!13^8#1*115@
+s2|1|s2!13^9#1*115@
+stu|1|student!13^1#7*113@
+-- END TREE
+-- START TREE 2
+18
+__i|7|__init__!10&9^5#9*82@__init__!14&13^4#9*114@__init__!15&1^4#9*18@__init__!16&1^9#13*18@__init__!12&5^4#9*50@__init__!4&3^2#9*34@__init__!12&11^3#9*98@
+ave|1|average!4&3^6#9*34@
+des|2|description!17&11^5#9*99@description!17&5^6#9*51@
+dis|2|displaycount!10&9^9#9*82@display!12&5^9#9*50@
+eng|1|Engine!15&1^8#11*17@
+get|3|getTechnologies!18&7^18#9*66@getSalary!18&7^12#9*66@getName!18&7^6#9*66@
+maj|1|major!14&13^2#5*115@
+nam|6|name!19&7^4#9*67@name!20&1^5#9*19@name!17&11^4#9*99@name!17&5^5#9*51@name!21&13^6#9*115@name!22&3^3#9*35@
+num|1|numberofobjects!10&9^3#5*83@
+pri|2|price!17&5^7#9*51@price!17&11^6#9*99@
+rat|1|rating!22&3^4#9*35@
+rol|1|rollno!21&13^5#9*115@
+sal|1|salary!23&7^10#9*67@
+set|3|setSalary!18&7^9#9*66@setName!18&7^3#9*66@setTechnologies!18&7^15#9*66@
+sta|1|start!16&1^11#13*18@
+tec|1|technologies!24&7^16#9*67@
+uni|1|uniquenumber!25&1^10#13*19@
+yea|1|year!20&1^6#9*19@
+-- END TREE

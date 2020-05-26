@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\operators\com.python.pydev.analysis\v2_indexcache
+logicaloperators|1588398960772318000|C:\Users\011tx\eclipse-workspace\operators\logicaloperators.py
+comparisonoperators|1588398664388813000|C:\Users\011tx\eclipse-workspace\operators\comparisonoperators.py
+arithmeticoperator|1588346915814187000|C:\Users\011tx\eclipse-workspace\operators\arithmeticoperator.py
+assignmentoperator|1588397502064001000|C:\Users\011tx\eclipse-workspace\operators\assignmentoperator.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=logicaloperators
+3=C:\Users\011tx\eclipse-workspace\operators\logicaloperators.py
+1=C:\Users\011tx\eclipse-workspace\operators\assignmentoperator.py
+2=assignmentoperator
+-- END DICTIONARY
+-- START TREE 1
+5
+a|1|a!1^1#1*19@
+b|1|b!1^1#3*19@
+c|1|c!1^1#5*19@
+x|1|x!3^1#1*35@
+y|1|y!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

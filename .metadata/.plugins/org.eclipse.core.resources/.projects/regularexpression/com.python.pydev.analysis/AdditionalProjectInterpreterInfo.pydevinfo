@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\regularexpression\com.python.pydev.analysis\v2_indexcache
+redemo|1589800179274017000|C:\Users\011tx\eclipse-workspace\regularexpression\redemo.py
+split|1589819610385516000|C:\Users\011tx\eclipse-workspace\regularexpression\split.py
+usingquantifiers|1589803726482160000|C:\Users\011tx\eclipse-workspace\regularexpression\usingquantifiers.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=redemo
+2=split
+6=usingquantifiers
+1=C:\Users\011tx\eclipse-workspace\regularexpression\split.py
+3=C:\Users\011tx\eclipse-workspace\regularexpression\redemo.py
+5=C:\Users\011tx\eclipse-workspace\regularexpression\usingquantifiers.py
+-- END DICTIONARY
+-- START TREE 1
+2
+res|3|result!1^5#1*19@result!3^4#1*35@result!5^5#1*51@
+str|3|str!1^3#1*19@str!3^2#1*35@str!5^3#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

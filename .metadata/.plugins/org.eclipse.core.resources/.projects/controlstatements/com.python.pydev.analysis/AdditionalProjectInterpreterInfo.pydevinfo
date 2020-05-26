@@ -1,0 +1,47 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\controlstatements\com.python.pydev.analysis\v2_indexcache
+oddnumbers|1588570176763695000|C:\Users\011tx\eclipse-workspace\controlstatements\oddnumbers.py
+continuedemo|1588690980993154000|C:\Users\011tx\eclipse-workspace\controlstatements\continuedemo.py
+forloop|1588656442263495000|C:\Users\011tx\eclipse-workspace\controlstatements\forloop.py
+breakdemo|1588681691725867000|C:\Users\011tx\eclipse-workspace\controlstatements\breakdemo.py
+evenorodd|1588485942171410000|C:\Users\011tx\eclipse-workspace\controlstatements\evenorodd.py
+productoflist|1588656815656174000|C:\Users\011tx\eclipse-workspace\controlstatements\productoflist.py
+whiledemo|1588518127364777000|C:\Users\011tx\eclipse-workspace\controlstatements\whiledemo.py
+assert|1588695144953270000|C:\Users\011tx\eclipse-workspace\controlstatements\assert.py
+assignment|1588696021293392000|C:\Users\011tx\eclipse-workspace\controlstatements\assignment.py
+multiofno|1588681641395014000|C:\Users\011tx\eclipse-workspace\controlstatements\multiofno.py
+gradeapp|1588517743235148000|C:\Users\011tx\eclipse-workspace\controlstatements\gradeapp.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+6=breakdemo
+7=C:\Users\011tx\eclipse-workspace\controlstatements\whiledemo.py
+16=assignment
+5=C:\Users\011tx\eclipse-workspace\controlstatements\breakdemo.py
+3=C:\Users\011tx\eclipse-workspace\controlstatements\productoflist.py
+12=multiofno
+13=C:\Users\011tx\eclipse-workspace\controlstatements\assert.py
+11=C:\Users\011tx\eclipse-workspace\controlstatements\multiofno.py
+17=C:\Users\011tx\eclipse-workspace\controlstatements\evenorodd.py
+2=oddnumbers
+9=C:\Users\011tx\eclipse-workspace\controlstatements\continuedemo.py
+10=continuedemo
+15=C:\Users\011tx\eclipse-workspace\controlstatements\assignment.py
+4=productoflist
+18=evenorodd
+8=whiledemo
+14=assert
+1=C:\Users\011tx\eclipse-workspace\controlstatements\oddnumbers.py
+-- END DICTIONARY
+-- START TREE 1
+5
+i|1|i!1^3#1*19@
+lst|2|lst!3^1#1*35@lst!5^1#1*51@
+pro|1|prod!3^2#1*35@
+x|7|x!7^1#1*67@x!9^1#1*83@x!11^1#1*99@x!13^1#1*115@x!1^1#1*19@x!15^1#1*131@x!17^1#1*147@
+y|1|y!1^2#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

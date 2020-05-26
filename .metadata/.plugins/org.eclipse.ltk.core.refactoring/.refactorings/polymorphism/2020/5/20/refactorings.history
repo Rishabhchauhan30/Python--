@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;polymorphism/+operator.py&apos; to &apos;plusoperator.py&apos;" description="Rename resource &apos;+operator.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="+operator.py" name="plusoperator.py" stamp="1589630918594" updateReferences="true"/>
+</session>

@@ -1,0 +1,63 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\basics\com.python.pydev.analysis\v2_indexcache
+stringtype|1588161599133548000|C:\Users\011tx\eclipse-workspace\basics\stringtype.py
+assignments|1588318362898100000|C:\Users\011tx\eclipse-workspace\basics\assignments.py
+numerictypes|1588106268912268000|C:\Users\011tx\eclipse-workspace\basics\numerictypes.py
+settype|1588184889836949000|C:\Users\011tx\eclipse-workspace\basics\settype.py
+bytesandarray|1588314430222394000|C:\Users\011tx\eclipse-workspace\basics\bytesandarray.py
+rangetype|1588313703110066000|C:\Users\011tx\eclipse-workspace\basics\rangetype.py
+tupetype|1588173048827302000|C:\Users\011tx\eclipse-workspace\basics\tupetype.py
+hello|1588104106762203000|C:\Users\011tx\eclipse-workspace\basics\hello.py
+listtype|1588317736118095000|C:\Users\011tx\eclipse-workspace\basics\listtype.py
+dictype|1588317110035658000|C:\Users\011tx\eclipse-workspace\basics\dictype.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+4=stringtype
+15=C:\Users\011tx\eclipse-workspace\basics\rangetype.py
+12=assignments
+18=settype
+3=C:\Users\011tx\eclipse-workspace\basics\stringtype.py
+6=bytesandarray
+17=C:\Users\011tx\eclipse-workspace\basics\settype.py
+9=C:\Users\011tx\eclipse-workspace\basics\listtype.py
+1=C:\Users\011tx\eclipse-workspace\basics\numerictypes.py
+11=C:\Users\011tx\eclipse-workspace\basics\assignments.py
+2=numerictypes
+13=C:\Users\011tx\eclipse-workspace\basics\tupetype.py
+14=tupetype
+16=rangetype
+7=C:\Users\011tx\eclipse-workspace\basics\dictype.py
+5=C:\Users\011tx\eclipse-workspace\basics\bytesandarray.py
+10=listtype
+8=dictype
+-- END DICTIONARY
+-- START TREE 1
+22
+a|2|a!1^1#1*19@a!3^64#1*35@
+b|2|b!5^6#1*51@b!1^2#1*19@
+b1|1|b1!5^14#1*51@
+c|1|c!1^3#1*19@
+d|1|d!1^13#1*19@
+dic|1|dict1!7^3#1*67@
+e|1|e!1^17#1*19@
+f|1|f!1^21#1*19@
+g|2|g!3^69#1*35@g!1^28#1*19@
+h|1|h!1^37#1*19@
+i|1|i!1^41#1*19@
+k|1|k!7^13#1*67@
+lst|4|lst!9^1#1*83@lst!11^7#1*99@lst!13^12#1*115@lst!5^1#1*51@
+p|1|p!3^70#1*35@
+r|2|r!15^1#1*131@r!1^25#1*19@
+s|2|s!17^1#1*147@s!3^6#1*35@
+s1|1|s1!3^3#1*35@
+tpl|2|tpl1!13^15#1*115@tpl!13^1#1*115@
+v|1|v!7^20#1*67@
+x|2|x!1^7#1*19@x!3^60#1*35@
+y|1|y!1^8#1*19@
+z|1|z!1^9#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

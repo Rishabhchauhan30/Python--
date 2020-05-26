@@ -1,0 +1,28 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\basicsprograms\com.python.pydev.analysis\v2_indexcache
+studetails|1588417312935712000|C:\Users\011tx\eclipse-workspace\basicsprograms\studetails.py
+areaofcircle|1588418716199772000|C:\Users\011tx\eclipse-workspace\basicsprograms\areaofcircle.py
+avgofno|1588417992681421000|C:\Users\011tx\eclipse-workspace\basicsprograms\avgofno.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=C:\Users\011tx\eclipse-workspace\basicsprograms\avgofno.py
+5=C:\Users\011tx\eclipse-workspace\basicsprograms\studetails.py
+1=C:\Users\011tx\eclipse-workspace\basicsprograms\areaofcircle.py
+6=studetails
+2=areaofcircle
+4=avgofno
+-- END DICTIONARY
+-- START TREE 1
+6
+are|1|area!1^9#1*19@
+ave|1|average!3^2#1*35@
+mar|1|marks!5^3#1*51@
+nam|1|name!5^2#1*51@
+r|1|r!1^8#1*19@
+stu|1|studentid!5^1#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

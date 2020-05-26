@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\handleexception\com.python.pydev.analysis\v2_indexcache
+customerlimit|1589712885087004000|C:\Users\011tx\eclipse-workspace\handleexception\customerlimit.py
+assertdemo|1589712335601726000|C:\Users\011tx\eclipse-workspace\handleexception\assertdemo.py
+usingelse|1589707099468625000|C:\Users\011tx\eclipse-workspace\handleexception\usingelse.py
+logexceptions|1589711077364049000|C:\Users\011tx\eclipse-workspace\handleexception\logexceptions.py
+assignment|1589715897658622000|C:\Users\011tx\eclipse-workspace\handleexception\assignment.py
+useingfinallly|1589706796452635000|C:\Users\011tx\eclipse-workspace\handleexception\useingfinallly.py
+usinglogging|1589708312063809000|C:\Users\011tx\eclipse-workspace\handleexception\usinglogging.py
+demo|1589681484661753000|C:\Users\011tx\eclipse-workspace\handleexception\demo.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+12=assertdemo
+5=C:\Users\011tx\eclipse-workspace\handleexception\usingelse.py
+7=C:\Users\011tx\eclipse-workspace\handleexception\logexceptions.py
+4=useingfinallly
+10=assignment
+15=OverTheLimitException
+1=C:\Users\011tx\eclipse-workspace\handleexception\demo.py
+2=demo
+9=C:\Users\011tx\eclipse-workspace\handleexception\assignment.py
+16=OverTheLimitException.__init__
+14=customerlimit
+6=usingelse
+13=C:\Users\011tx\eclipse-workspace\handleexception\customerlimit.py
+8=logexceptions
+3=C:\Users\011tx\eclipse-workspace\handleexception\useingfinallly.py
+11=C:\Users\011tx\eclipse-workspace\handleexception\assertdemo.py
+-- END DICTIONARY
+-- START TREE 1
+7
+c|4|c!1^3#5*19@c!3^4#5*35@c!5^4#5*51@c!7^8#5*67@
+f|3|f!7^5#5*67@f!5^2#5*51@f!3^2#5*35@
+inv|1|InvalidPasswordException!9^1#7*81@
+num|1|num!11^2#5*99@
+ove|1|OverTheLimitException!13^1#7*113@
+psw|1|psw!9^4#5*83@
+wit|1|withdrawl!13^5#5*114@
+-- END TREE
+-- START TREE 2
+2
+__i|1|__init__!15&13^2#9*114@
+msg|1|msg!16&13^3#9*115@
+-- END TREE

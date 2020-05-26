@@ -1,0 +1,106 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\function\com.python.pydev.analysis\v2_indexcache
+average|1589386713673842000|C:\Users\011tx\eclipse-workspace\function\average.py
+fibonacci|1589349803541350000|C:\Users\011tx\eclipse-workspace\function\fibonacci.py
+sumreduce|1589396546328118000|C:\Users\011tx\eclipse-workspace\function\sumreduce.py
+factorial|1589386217287393000|C:\Users\011tx\eclipse-workspace\function\factorial.py
+printsumlambda|1589395290042257000|C:\Users\011tx\eclipse-workspace\function\printsumlambda.py
+doubleusinglam|1589396145929303000|C:\Users\011tx\eclipse-workspace\function\doubleusinglam.py
+greetings|1588939522036334000|C:\Users\011tx\eclipse-workspace\function\greetings.py
+stringdecor|1589448433042772000|C:\Users\011tx\eclipse-workspace\function\stringdecor.py
+returningfun|1589385290125812000|C:\Users\011tx\eclipse-workspace\function\returningfun.py
+practise|1589300889059273000|C:\Users\011tx\eclipse-workspace\function\practise.py
+decor|1589450021643802000|C:\Users\011tx\eclipse-workspace\function\decor.py
+evenno|1589479640155560000|C:\Users\011tx\eclipse-workspace\function\evenno.py
+newfile|1589348509122682000|C:\Users\011tx\eclipse-workspace\function\newfile.py
+funasparameter|1588939875801876000|C:\Users\011tx\eclipse-workspace\function\funasparameter.py
+coustomgen|1589450021664749000|C:\Users\011tx\eclipse-workspace\function\coustomgen.py
+importtype|1589449818441305000|C:\Users\011tx\eclipse-workspace\function\importtype.py
+lambdacube|1589393963750948000|C:\Users\011tx\eclipse-workspace\function\lambdacube.py
+productlist|1589480439417689000|C:\Users\011tx\eclipse-workspace\function\productlist.py
+importways|1589450156884145000|C:\Users\011tx\eclipse-workspace\function\importways.py
+oddevenlambda|1589394645849454000|C:\Users\011tx\eclipse-workspace\function\oddevenlambda.py
+listfun|1589385549387749000|C:\Users\011tx\eclipse-workspace\function\listfun.py
+local&global|1589231519331914000|C:\Users\011tx\eclipse-workspace\function\local&global.py
+calc|1588853809615471000|C:\Users\011tx\eclipse-workspace\function\calc.py
+funpractise|1589299366892048000|C:\Users\011tx\eclipse-workspace\function\funpractise.py
+evenlambda|1589395802936144000|C:\Users\011tx\eclipse-workspace\function\evenlambda.py
+-- END DISKCACHE
+-- START DICTIONARY
+46
+4=average
+28=fibonacci
+11=C:\Users\011tx\eclipse-workspace\function\stringdecor.py
+38=sumreduce
+33=C:\Users\011tx\eclipse-workspace\function\practise.py
+26=factorial
+1=C:\Users\011tx\eclipse-workspace\function\printsumlambda.py
+2=printsumlambda
+31=C:\Users\011tx\eclipse-workspace\function\funpractise.py
+27=C:\Users\011tx\eclipse-workspace\function\fibonacci.py
+42=doubleusinglam
+18=greetings
+23=C:\Users\011tx\eclipse-workspace\function\oddevenlambda.py
+12=stringdecor
+5=C:\Users\011tx\eclipse-workspace\function\calc.py
+16=returningfun
+29=C:\Users\011tx\eclipse-workspace\function\listfun.py
+34=practise
+45=C:\Users\011tx\eclipse-workspace\function\productlist.py
+14=decor
+19=C:\Users\011tx\eclipse-workspace\function\local&global.py
+9=C:\Users\011tx\eclipse-workspace\function\coustomgen.py
+44=evenno
+13=C:\Users\011tx\eclipse-workspace\function\decor.py
+36=newfile
+22=funasparameter
+41=C:\Users\011tx\eclipse-workspace\function\doubleusinglam.py
+10=coustomgen
+37=C:\Users\011tx\eclipse-workspace\function\sumreduce.py
+7=C:\Users\011tx\eclipse-workspace\function\lambdacube.py
+15=C:\Users\011tx\eclipse-workspace\function\returningfun.py
+43=C:\Users\011tx\eclipse-workspace\function\evenno.py
+17=C:\Users\011tx\eclipse-workspace\function\greetings.py
+8=lambdacube
+46=productlist
+3=C:\Users\011tx\eclipse-workspace\function\average.py
+21=C:\Users\011tx\eclipse-workspace\function\funasparameter.py
+24=oddevenlambda
+30=listfun
+39=C:\Users\011tx\eclipse-workspace\function\evenlambda.py
+20=local&global
+6=calc
+32=funpractise
+35=C:\Users\011tx\eclipse-workspace\function\newfile.py
+25=C:\Users\011tx\eclipse-workspace\function\factorial.py
+40=evenlambda
+-- END DICTIONARY
+-- START TREE 1
+22
+add|1|add!1^2#5*18@
+ave|1|average!3^26#5*34@
+cal|1|calc!5^1#5*50@
+cub|1|cube!7^3#5*66@
+cus|1|customgen!9^1#5*82@
+dec|2|decorfun!11^1#5*98@decor!13^16#5*114@
+dis|4|display!15^1#5*130@display!17^1#5*146@display!19^22#5*162@display!21^1#5*178@
+f|3|f!1^9#1*19@f!23^11#1*195@f!7^9#1*67@
+fac|1|factorial!25^1#5*210@
+fib|1|fibonacci_seq!27^1#5*226@
+fun|2|fun!15^6#1*131@fun!29^1#5*242@
+gre|1|greater!31^41#5*258@
+hel|1|hello!11^9#5*98@
+is_|2|is_palindrome!33^12#5*274@is_palindrome!35^10#5*290@
+lst|4|lst!37^3#1*307@lst!39^1#1*323@lst!41^1#1*339@lst!43^7#1*355@
+nam|1|name!21^4#5*178@
+num|1|num!13^23#5*114@
+odd|1|odd_even!23^2#5*194@
+res|5|result!5^8#1*51@result!39^3#1*323@result!9^6#1*83@result!41^3#1*339@result!37^4#1*307@
+x|2|x!45^1#1*371@x!19^20#1*163@
+y|1|y!45^2#1*371@
+z|2|z!45^4#1*371@z!19^28#1*163@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

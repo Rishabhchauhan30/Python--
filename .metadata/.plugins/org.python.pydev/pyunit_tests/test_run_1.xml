@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="1" failures="0" finished="true" name="Test Run: 1" tests="0" total_time="Finished in: 0.02 secs."/>
+    <test location="C:\Users\011tx\eclipse-workspace\basics\listtype.py" status="error" test="listtype" time="0">
+        <stdout/>
+        <stderr>
+            <![CDATA[Traceback (most recent call last):
+  File "C:\Users\011tx\.p2\pool\plugins\org.python.pydev.core_7.5.0.202001101138\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Users\011tx\eclipse-workspace\basics\listtype.py", line 1
+    lst[]
+        ^
+SyntaxError: invalid syntax
+ERROR: Module: listtype could not be imported (file: C:\Users\011tx\eclipse-workspace\basics\listtype.py).
+]]>
+        </stderr>
+    </test>
+    <launch mode="run">
+        <launch_memento>
+            <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="basics listtype.py (1)"/>
+]]>
+        </launch_memento>
+    </launch>
+</pydev-testsuite>

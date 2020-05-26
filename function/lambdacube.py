@@ -1,0 +1,10 @@
+#using function
+
+def cube(n):
+    return n**3
+print(cube(2))  
+
+
+#using lambda
+f = lambda n:n**3
+print(f(2))

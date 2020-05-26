@@ -1,0 +1,72 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\multitheading\com.python.pydev.analysis\v2_indexcache
+morelohic|1590164419455679000|C:\Users\011tx\eclipse-workspace\multitheading\morelohic.py
+getthreadname|1589969181910549000|C:\Users\011tx\eclipse-workspace\multitheading\getthreadname.py
+morelogic|1590164934606427000|C:\Users\011tx\eclipse-workspace\multitheading\morelogic.py
+threadcommmuusingAPI|1590169273316695000|C:\Users\011tx\eclipse-workspace\multitheading\threadcommmuusingAPI.py
+extendthreadclass|1589970355746791000|C:\Users\011tx\eclipse-workspace\multitheading\extendthreadclass.py
+usingclass|1589970392009522000|C:\Users\011tx\eclipse-workspace\multitheading\usingclass.py
+usingoflock|1590165586670630000|C:\Users\011tx\eclipse-workspace\multitheading\usingoflock.py
+threadCommunicationUsingboolean|1590168128648421000|C:\Users\011tx\eclipse-workspace\multitheading\threadCommunicationUsingboolean.py
+bookmybus|1590089486889616000|C:\Users\011tx\eclipse-workspace\multitheading\bookmybus.py
+mainthread|1589967678409504000|C:\Users\011tx\eclipse-workspace\multitheading\mainthread.py
+usingfunction|1589968500142715000|C:\Users\011tx\eclipse-workspace\multitheading\usingfunction.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+22=MyBus.__init__
+16=extendthreadclass
+15=C:\Users\011tx\eclipse-workspace\multitheading\extendthreadclass.py
+11=C:\Users\011tx\eclipse-workspace\multitheading\morelogic.py
+17=C:\Users\011tx\eclipse-workspace\multitheading\usingclass.py
+26=consumer.__init__
+3=C:\Users\011tx\eclipse-workspace\multitheading\threadcommmuusingAPI.py
+4=threadcommmuusingAPI
+20=consumer
+21=MyBus
+12=morelogic
+24=MyThread
+23=producer.__init__
+13=C:\Users\011tx\eclipse-workspace\multitheading\bookmybus.py
+5=C:\Users\011tx\eclipse-workspace\multitheading\usingfunction.py
+7=C:\Users\011tx\eclipse-workspace\multitheading\getthreadname.py
+8=getthreadname
+25=producer.produce
+10=usingoflock
+18=usingclass
+2=threadCommunicationUsingboolean
+1=C:\Users\011tx\eclipse-workspace\multitheading\threadCommunicationUsingboolean.py
+19=producer
+14=bookmybus
+9=C:\Users\011tx\eclipse-workspace\multitheading\usingoflock.py
+6=usingfunction
+-- END DICTIONARY
+-- START TREE 1
+12
+c|2|c!1^28#1*19@c!3^34#1*35@
+con|2|consumer!1^17#7*17@consumer!3^20#7*33@
+dis|2|displayNumbers!5^3#5*50@displayNumbers!7^3#5*66@
+myb|3|MyBus!9^3#7*81@MyBus!11^3#7*97@MyBus!13^3#7*113@
+myt|2|MyThread!15^3#7*129@MyThread!17^3#7*145@
+obj|4|obj!13^9#1*115@obj!17^11#1*147@obj!9^22#1*83@obj!11^18#1*99@
+p|2|p!1^27#1*19@p!3^33#1*35@
+pro|2|producer!1^4#7*17@producer!3^4#7*33@
+t|4|t!7^13#1*67@t!17^12#1*147@t!15^10#1*131@t!5^11#1*51@
+t1|5|t1!3^36#1*35@t1!11^19#1*99@t1!1^30#1*19@t1!9^23#1*83@t1!13^10#1*115@
+t2|5|t2!1^31#1*19@t2!9^24#1*83@t2!13^11#1*115@t2!3^37#1*35@t2!11^20#1*99@
+t3|3|t3!11^21#1*99@t3!9^25#1*83@t3!13^12#1*115@
+-- END TREE
+-- START TREE 2
+10
+__i|6|__init__!19&1^6#9*18@__init__!20&1^19#9*18@__init__!21&9^5#9*82@__init__!21&11^5#9*98@__init__!19&3^6#9*34@__init__!20&3^22#9*34@
+ava|2|availableSeats!22&11^6#9*99@availableSeats!22&9^6#9*83@
+buy|3|buy!21&9^9#9*82@buy!21&13^4#9*114@buy!21&11^8#9*98@
+c|1|c!23&3^8#9*35@
+con|2|consume!20&1^22#9*18@consume!20&3^25#9*34@
+dis|1|displayNumbers!24&17^4#9*146@
+l|1|l!22&9^7#9*83@
+ord|2|orderplaced!23&1^8#9*19@orderplaced!25&1^15#9*19@
+pro|6|prod!26&1^20#9*19@products!23&3^7#9*35@products!23&1^7#9*19@produce!19&3^11#9*34@prod!26&3^23#9*35@produce!19&1^10#9*18@
+run|1|run!24&15^4#9*130@
+-- END TREE

@@ -1,0 +1,49 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\polymorphism\com.python.pydev.analysis\v2_indexcache
+dependencyinjection|1589630648777624000|C:\Users\011tx\eclipse-workspace\polymorphism\dependencyinjection.py
+plusoperator|1589631134775824000|C:\Users\011tx\eclipse-workspace\polymorphism\plusoperator.py
+ducktyping|1589629542428272000|C:\Users\011tx\eclipse-workspace\polymorphism\ducktyping.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=dependencyinjection
+3=C:\Users\011tx\eclipse-workspace\polymorphism\ducktyping.py
+12=Human
+1=C:\Users\011tx\eclipse-workspace\polymorphism\dependencyinjection.py
+8=Flight.__init__
+5=C:\Users\011tx\eclipse-workspace\polymorphism\plusoperator.py
+6=plusoperator
+4=ducktyping
+7=Flight
+10=BoingEngine
+11=Duck
+9=AirbusEngine
+-- END DICTIONARY
+-- START TREE 1
+17
+ae|1|ae!1^16#1*19@
+air|1|AirbusEngine!1^8#7*17@
+be|1|be!1^20#1*19@
+boi|1|BoingEngine!1^12#7*17@
+cal|1|callTalk!3^10#5*34@
+d|1|d!3^13#1*35@
+duc|1|Duck!3^1#7*33@
+f|1|f!1^17#1*19@
+fli|1|Flight!1^1#7*17@
+h|1|h!3^16#1*35@
+hum|1|Human!3^6#7*33@
+l1|1|l1!5^12#1*51@
+l2|1|l2!5^13#1*51@
+s1|1|s1!5^7#1*51@
+s2|1|s2!5^8#1*51@
+x|1|x!5^1#1*51@
+y|1|y!5^2#1*51@
+-- END TREE
+-- START TREE 2
+4
+__i|1|__init__!7&1^2#9*18@
+eng|1|engine!8&1^3#9*19@
+sta|3|start!9&1^9#9*18@start!10&1^13#9*18@startEngine!7&1^5#9*18@
+tal|2|talk!11&3^2#9*34@talk!12&3^7#9*34@
+-- END TREE

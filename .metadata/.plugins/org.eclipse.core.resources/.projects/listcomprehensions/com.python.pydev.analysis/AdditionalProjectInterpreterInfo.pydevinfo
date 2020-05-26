@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\011tx\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\listcomprehensions\com.python.pydev.analysis\v2_indexcache
+cubesofno|1589451195727482000|C:\Users\011tx\eclipse-workspace\listcomprehensions\cubesofno.py
+productoflist|1589483511590873000|C:\Users\011tx\eclipse-workspace\listcomprehensions\productoflist.py
+commonelemnts|1589484068394617000|C:\Users\011tx\eclipse-workspace\listcomprehensions\commonelemnts.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=C:\Users\011tx\eclipse-workspace\listcomprehensions\cubesofno.py
+6=cubesofno
+2=productoflist
+1=C:\Users\011tx\eclipse-workspace\listcomprehensions\productoflist.py
+3=C:\Users\011tx\eclipse-workspace\listcomprehensions\commonelemnts.py
+4=commonelemnts
+-- END DICTIONARY
+-- START TREE 1
+4
+a|2|a!1^1#1*19@a!3^1#1*35@
+b|2|b!1^2#1*19@b!3^2#1*35@
+lst|1|lst!5^1#1*51@
+z|2|z!1^4#1*19@z!3^4#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

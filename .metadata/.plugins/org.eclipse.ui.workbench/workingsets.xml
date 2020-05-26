@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588016165353_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588016165361_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588097740854_3" label="python" name="python">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/basics" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588098000318_4" label="python.py" name="python.py">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/basics" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588098041887_5" label="pythonproject" name="pythonproject">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/basics" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588016169663_2" label="Window Working Set" name="Aggregate for window 1588016169663"/>
+<mruList name="python"/>
+<mruList name="pythonproject"/>
+<mruList name="python.py"/>
+</workingSetManager>
